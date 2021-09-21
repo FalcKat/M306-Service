@@ -1,4 +1,4 @@
-Titel: Werkstattauftrag Wxx + Name des WS-Auftrages (z.B. W05 Nettime NTP)
+Werkstattauftrag W07 Test
 ===========================================================================
 
 Inhaltsverzeichnis:
