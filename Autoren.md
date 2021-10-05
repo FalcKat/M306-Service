@@ -1,6 +1,6 @@
 *Autoren, Versionierung des Dokumentes*
 ----------------
+Kate Falco 
+Marco Neuschwander 
 
-Hier ist ein Bild:
-
-<img src="M306.jpg"> 
+05.10.2021
