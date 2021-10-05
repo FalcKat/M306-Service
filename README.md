@@ -3,7 +3,7 @@ Werkstattauftrag W07 Test
 
 Inhaltsverzeichnis:
 -------------------
-[1. Autoren, Versionierung des Dokumentes](Autoren, Versionierung des Dokumentes.md "1. Autoren, Versionierung des Dokumentes")
+[1. Autoren, Versionierung des Dokumentes](Autoren,VersionierungdesDokumentes.md "1. Autoren, Versionierung des Dokumentes ")
 
 
 [2. Einfuehrung](Einfuehrung.md "2. Einfuehrung ")
@@ -11,7 +11,7 @@ Inhaltsverzeichnis:
    - Vorgesehener Zeitaufwand für die Realisierung
    - Stolpersteine
 
-[3. Benoetigte Hard- und Software](Benoetigte Hard- und Software.md  "3. Benoetigte Hard- und Software")
+[3. Benoetigte Hard- und Software](BenoetigteHard-undSoftware.md  "3. Benoetigte Hard- und Software" )
    - Hardware (Materialliste, Funktionalitaet)
    - Software (Anforderungen, Firmware, OS-Image, ergaenzende SW-Packages, Ab-
 	hängigkeiten, Funktionalitaet)
@@ -28,7 +28,7 @@ Inhaltsverzeichnis:
 
 [7. Quellen](Quellen.md "7. Quellen")
 
-[8. Lizenzen](OpenSource Lizenz.md "8. Lizenzen")
+[8. Lizenzen](OpenSourceLizenz.md "8. Lizenzen" )
 
 
 - - -
