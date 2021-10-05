@@ -3,4 +3,4 @@
 
 
 
-<img src="M306.jpg"> 
+<img src="M306.jpg"> Hier ist ein Bild 
