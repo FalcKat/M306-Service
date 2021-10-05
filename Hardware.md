@@ -2,10 +2,15 @@
 ---
 
 **Hardware:** 
-Raspberry-PI 
-Monitor
-Tastatur
+
+- Raspberry-PI 
+
+- Monitor
+
+- Tastatur
+
 
 
 **Software:**
-Linux
+
+- Linux
