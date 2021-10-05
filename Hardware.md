@@ -1,1 +1,9 @@
-Benoetigte Hard- und Software
+*Benoetigte Hard- und Software*
+---
+
+**Hardware: 
+
+
+
+
+**Software: 
