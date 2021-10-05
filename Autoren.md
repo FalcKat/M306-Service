@@ -1,5 +1,4 @@
-*Autoren, Versionierung des Dokumentes*
-------------------------------------------------
+#*Autoren, Versionierung des Dokumentes*#
 
 Hier ist ein Bild:
 
