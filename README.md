@@ -3,7 +3,7 @@ Werkstattauftrag W07 Test
 
 Inhaltsverzeichnis:
 -------------------
-[1. Autoren, Versionierung des Dokumentes](Autoren,VersionierungdesDokumentes.md "1. Autoren, Versionierung des Dokumentes ")
+[1. Autoren, Versionierung des Dokumentes](Autoren.md "1. Autoren, Versionierung des Dokumentes ")
 
 
 [2. Einfuehrung](Einfuehrung.md "2. Einfuehrung ")
