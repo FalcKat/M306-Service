@@ -11,7 +11,7 @@ Inhaltsverzeichnis:
    - Vorgesehener Zeitaufwand für die Realisierung
    - Stolpersteine
 
-[3. Benoetigte Hard- und Software](BenoetigteHard-undSoftware.md  "3. Benoetigte Hard- und Software" )
+[3. Benoetigte Hard- und Software](Hardware.md  "3. Benoetigte Hard- und Software" )
    - Hardware (Materialliste, Funktionalitaet)
    - Software (Anforderungen, Firmware, OS-Image, ergaenzende SW-Packages, Ab-
 	hängigkeiten, Funktionalitaet)
@@ -28,7 +28,7 @@ Inhaltsverzeichnis:
 
 [7. Quellen](Quellen.md "7. Quellen")
 
-[8. Lizenzen](OpenSourceLizenz.md "8. Lizenzen" )
+[8. Lizenzen](Lizenz.md "8. Lizenzen" )
 
 
 - - -
