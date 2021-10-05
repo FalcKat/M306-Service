@@ -3,7 +3,7 @@ Werkstattauftrag W07 Test
 
 Inhaltsverzeichnis:
 -------------------
-[I'm an inline-style link with title](test.md "1. Autoren, Versionierung des Dokumentes")
+[1. Autoren, Versionierung des Dokumentes](test.md "1. Autoren, Versionierung des Dokumentes")
 
 2. Einfuehrung 
    - Beschreibung: Welche Funktionen wird der Service erfuellen
